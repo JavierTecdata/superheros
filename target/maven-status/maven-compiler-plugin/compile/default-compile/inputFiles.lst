@@ -1,0 +1,12 @@
+D:\Develop\TECDATA\superheros\src\main\java\com\w2m\superheros\application\ports\input\SuperheroUseCase.java
+D:\Develop\TECDATA\superheros\src\main\java\com\w2m\superheros\infrastructure\adapters\output\persistence\SuperheroPersistenceAdapter.java
+D:\Develop\TECDATA\superheros\src\main\java\com\w2m\superheros\infrastructure\adapters\input\rest\SuperheroRestAdapter.java
+D:\Develop\TECDATA\superheros\src\main\java\com\w2m\superheros\SuperheroApplication.java
+D:\Develop\TECDATA\superheros\src\main\java\com\w2m\superheros\domain\mapper\SuperheroMapper.java
+D:\Develop\TECDATA\superheros\src\main\java\com\w2m\superheros\infrastructure\adapters\input\rest\errorhandler\GlobalExceptionHandler.java
+D:\Develop\TECDATA\superheros\src\main\java\com\w2m\superheros\application\ports\output\SuperheroOutputPort.java
+D:\Develop\TECDATA\superheros\src\main\java\com\w2m\superheros\domain\dto\ResponseDto.java
+D:\Develop\TECDATA\superheros\src\main\java\com\w2m\superheros\infrastructure\adapters\output\persistence\repository\SuperheroRepository.java
+D:\Develop\TECDATA\superheros\src\main\java\com\w2m\superheros\domain\entity\SuperheroEntity.java
+D:\Develop\TECDATA\superheros\src\main\java\com\w2m\superheros\domain\dto\SuperheroDto.java
+D:\Develop\TECDATA\superheros\src\main\java\com\w2m\superheros\domain\service\SuperheroService.java

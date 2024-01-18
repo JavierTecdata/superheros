@@ -1,0 +1,3 @@
+com\w2m\superheros\domain\mapper\SuperheroMapperTest.class
+com\w2m\superheros\domain\service\SuperheroServiceTest.class
+com\w2m\superheros\SuperheroApplicationTests.class

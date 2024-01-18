@@ -1,0 +1,13 @@
+com\w2m\superheros\infrastructure\adapters\output\persistence\SuperheroPersistenceAdapter.class
+com\w2m\superheros\domain\dto\ResponseDto.class
+com\w2m\superheros\domain\mapper\SuperheroMapperImpl.class
+com\w2m\superheros\domain\entity\SuperheroEntity.class
+com\w2m\superheros\domain\service\SuperheroService.class
+com\w2m\superheros\infrastructure\adapters\input\rest\errorhandler\GlobalExceptionHandler.class
+com\w2m\superheros\domain\mapper\SuperheroMapper.class
+com\w2m\superheros\domain\dto\SuperheroDto.class
+com\w2m\superheros\application\ports\output\SuperheroOutputPort.class
+com\w2m\superheros\SuperheroApplication.class
+com\w2m\superheros\application\ports\input\SuperheroUseCase.class
+com\w2m\superheros\infrastructure\adapters\input\rest\SuperheroRestAdapter.class
+com\w2m\superheros\infrastructure\adapters\output\persistence\repository\SuperheroRepository.class
